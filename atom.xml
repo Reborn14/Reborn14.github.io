@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://shaobinga.top</id>
+    <id>https://reborn14.github.io</id>
     <title>这是烧饼的博客</title>
-    <updated>2021-04-30T13:36:45.050Z</updated>
+    <updated>2021-04-30T13:39:00.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://shaobinga.top"/>
-    <link rel="self" href="https://shaobinga.top/atom.xml"/>
-    <logo>https://shaobinga.top/images/avatar.png</logo>
-    <icon>https://shaobinga.top/favicon.ico</icon>
+    <link rel="alternate" href="https://reborn14.github.io"/>
+    <link rel="self" href="https://reborn14.github.io/atom.xml"/>
+    <logo>https://reborn14.github.io/images/avatar.png</logo>
+    <icon>https://reborn14.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 这是烧饼的博客</rights>
     <entry>
         <title type="html"><![CDATA[Markdown语法学习]]></title>
-        <id>https://shaobinga.top/post/markdown-yu-fa-xue-xi/</id>
-        <link href="https://shaobinga.top/post/markdown-yu-fa-xue-xi/">
+        <id>https://reborn14.github.io/post/markdown-yu-fa-xue-xi/</id>
+        <link href="https://reborn14.github.io/post/markdown-yu-fa-xue-xi/">
         </link>
         <updated>2021-04-30T09:31:10.000Z</updated>
         <content type="html"><![CDATA[<p><a href="https://www.jianshu.com/p/q81RER">献给写作者的 Markdown 新手指南</a><br>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[好好探讨一下坐标系那些事]]></title>
-        <id>https://shaobinga.top/post/hao-hao-tan-tao-yi-xia-zuo-biao-xi-na-xie-shi/</id>
-        <link href="https://shaobinga.top/post/hao-hao-tan-tao-yi-xia-zuo-biao-xi-na-xie-shi/">
+        <id>https://reborn14.github.io/post/hao-hao-tan-tao-yi-xia-zuo-biao-xi-na-xie-shi/</id>
+        <link href="https://reborn14.github.io/post/hao-hao-tan-tao-yi-xia-zuo-biao-xi-na-xie-shi/">
         </link>
         <updated>2021-04-30T05:02:22.000Z</updated>
         <content type="html"><![CDATA[<p>每次回顾坐标系知识的时候，总会有部分概念模糊。<br>
@@ -36,8 +36,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[这是烧饼的博客]]></title>
-        <id>https://shaobinga.top/post/zhe-shi-shao-bing-de-bo-ke/</id>
-        <link href="https://shaobinga.top/post/zhe-shi-shao-bing-de-bo-ke/">
+        <id>https://reborn14.github.io/post/zhe-shi-shao-bing-de-bo-ke/</id>
+        <link href="https://reborn14.github.io/post/zhe-shi-shao-bing-de-bo-ke/">
         </link>
         <updated>2021-04-28T06:57:15.000Z</updated>
         <content type="html"><![CDATA[<p>用来分享一些知识和吐槽。</p>
